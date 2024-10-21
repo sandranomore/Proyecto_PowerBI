@@ -1,4 +1,4 @@
-# Gestión de Reservas
+# Análisis Cancelaciones Hoteleras
 
 Proyecto de análisis y optimización de las cancelaciones de las reservas de una cadena hotelera.
 *Herramienta visualización:* Power BI Desktop
@@ -11,24 +11,7 @@ La cadena hotelera ha notado un aumento en el número de cancelaciones de sus re
 Se ha automatizado la primera fase de exploración, transformación y limpieza de datos.
 
 ### **Ejecución de la Limpieza y Transformación de Datos**
-El proceso de limpieza y transformación de datos está automatizado mediante un script en Python. Sigue estos pasos para ejecutar el script:
-
-**1. Clona el Repositorio:**
-
-```python
-git clone https://github.com/TaniaGraff/project-da-promo-angela-modulo4-team4
-```
-**2. Ejecuta el Script de Limpieza y Transformación:**
-Navega a la carpeta `ETL_Equipo#1` y ejecuta el script `main.py`:
-
-```python
-python scripts/main.py
-```
-
-Este script procesará los datos descargados y generará archivos limpios y transformados en la carpeta `ETL_Equipo#1`.
-
-**3. Verifica los Archivos Procesados:**
-Revisa la carpeta para asegurarte de que los archivos procesados se han generado correctamente. Estos archivos estarán listos para ser utilizados en Power BI para la creación del dashboard.
+El proceso de limpieza y transformación de datos está automatizado mediante un script en Python. 
 
 ## **FASE 2: Identificación de Objetivos**
 
@@ -52,9 +35,17 @@ Revisa la carpeta para asegurarte de que los archivos procesados se han generado
 
 ## **FASE 3: Visualización Resultados**
 
-**Visualización de Datos:** Proporcionar visualizaciones claras y comprensibles para facilitar la toma de decisiones informadas con gestionar las cancelaciones.
+**Visualización de Datos:** Proporcionar visualizaciones claras y comprensibles para facilitar la toma de decisiones 
+informadas con gestionar las cancelaciones.
 
-Para ver el dashboard de las cancelaciones del hotel, ejecutar en Power BI el archivo **cancelaciones_hoteles.pbix**
+![Captura de pantalla 2024-10-21 115816](https://github.com/user-attachments/assets/7b8c16e6-6b34-498d-9a7f-3c104df27fbe)
 
+![Captura de pantalla 2024-10-21 115838](https://github.com/user-attachments/assets/c02a7df8-0d0e-489a-b771-fa513c9de57f)
 
+![Captura de pantalla 2024-10-21 115855](https://github.com/user-attachments/assets/8b0fa4c0-b60c-4532-94c2-1152615a6d8a)
 
+![Captura de pantalla 2024-10-21 115925](https://github.com/user-attachments/assets/96a511c8-82ce-4615-87a8-0dc1e07ab274)
+
+![Captura de pantalla 2024-10-21 115944](https://github.com/user-attachments/assets/b40584ac-3c24-48df-bb36-c7beea9d759f)
+
+![Captura de pantalla 2024-10-21 120001](https://github.com/user-attachments/assets/cf8ff116-2d68-4501-b8dd-6132e1ad866b)
