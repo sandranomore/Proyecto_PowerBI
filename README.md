@@ -1,19 +1,13 @@
 # Análisis Cancelaciones Hoteleras
 
-Proyecto de análisis y optimización de las cancelaciones de las reservas de una cadena hotelera.
-*Herramienta visualización:* Power BI Desktop
+Herramienta visualización:** Power BI**  
 
-La cadena hotelera ha notado un aumento en el número de cancelaciones de sus reservas en los últimos meses y nos ha encargado realizar un análisis preliminar para comprender las causas y patrones que se esconden tras esas cancelaciones, con tal de que la gerencia del hotel pueda identificar áreas de mejora y tomar decisiones informadas para reducir la tasa de cancelación.
+Contexto: La cadena hotelera ha notado un aumento en el número de cancelaciones de sus reservas en los últimos meses y nos ha encargado realizar un análisis preliminar para comprender las causas y patrones que se esconden tras esas cancelaciones, con tal de que la gerencia del hotel pueda identificar áreas de mejora y tomar decisiones informadas para reducir la tasa de cancelación.
 
 ## **FASE 1: Exploración, Limpieza y Transformación el Conjunto de Datos**
-Se ha automatizado la primera fase de exploración, transformación y limpieza de datos.
-
-### **Ejecución de la Limpieza y Transformación de Datos**
-El proceso de limpieza y transformación de datos está automatizado mediante un script en Python. 
+Se ha automatizado la primera fase de exploración, transformación y limpieza de datos. El proceso de limpieza y transformación de datos está automatizado mediante un script en Python. 
 
 ## **FASE 2: Identificación de Objetivos**
-
-### **Objetivos**
 
 **1. Identificación de las Cancelaciones:** Entender qué patrones se esconden detrás de las cancelaciones, planteándose las siguientes preguntas clave:
 
@@ -24,12 +18,6 @@ El proceso de limpieza y transformación de datos está automatizado mediante un
 - ¿Se cancelan más las reservas de verano que de invierno?
 - ¿Se cancelan más las reservas de entre semana que las de los fines de semana?
 - Los clientes que cancelan, ¿presentan algún tipo de característica demográfica?
-- Las reservas que se hacen con mayor anticipación, ¿tienen mucho riesgo de cancelarse?
-- Las reservas que incluyen hijos, ¿tienen menor riesgo de cancelación?
-- Los usuarios que realizaron algún cambio en su reserva, ¿tienen menor riesgo de cancelación?
-- Cuándo el usuario ha realizado una solicitud especial, ¿el riesgo de cancelación es menor?
-- Las reservas que tienen un tarifa baja, ¿tienen un riesgo menor de cancelación?.
-
 
 ## **FASE 3: Visualización Resultados**
 
